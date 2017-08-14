@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RxjavaDemo</string>
+    <string name="movie_activity_name">豆瓣电影TOP250</string>
+</resources>
